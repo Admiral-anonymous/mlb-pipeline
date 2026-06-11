@@ -1,0 +1,5 @@
+streamlit
+requests
+pydantic
+pybaseball
+ollama (gemma4:12b,phi4:14b,qwen3.5:latest etc)
