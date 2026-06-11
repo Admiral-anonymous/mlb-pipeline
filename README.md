@@ -73,3 +73,8 @@ public and unofficial — they can change without notice.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+
+## Note
+Initial implementation written with assistance from Frontier models.
