@@ -1,0 +1,22 @@
+# MLB pipeline cache and outputs (regenerated on every run)
+.mlb_cache/
+output.json
+players_db.json
+team_season.json
+handoff.json
+mlb_games_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
